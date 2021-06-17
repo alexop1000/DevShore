@@ -1,0 +1,3 @@
+[submodule "GameJam"]
+	path = GameJam
+	url = https://github.com/AsciiSalt/GameJam
